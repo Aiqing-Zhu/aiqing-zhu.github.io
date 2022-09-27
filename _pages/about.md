@@ -38,6 +38,9 @@ Email: zaq@lsec.cc.ac.cn.
 [1] Aiqing Zhu, Pengzhan Jin, Yifa Tang, Deep Hamiltonian networks based on symplectic integrators (in Chinese), Mathematica Numerica Sinica, 42(3), 370-384 (2020). [PDF](https://doi.org/10.12286/jssx.2020.3.370), [English version](https://arxiv.org/abs/2004.13830).
 
 ### Preprints
+
+- Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
+
 - Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Explicit K-symplectic methods for nonseparable non-canonical Hamiltonian systems.  arXiv 2208.03875, [PDF](https://arxiv.org/abs/2208.03875).
 
 - Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Poisson Integrators based on splitting method for Poisson systems. arXiv 2205.05281, [PDF](https://arxiv.org/abs/2205.05281).
