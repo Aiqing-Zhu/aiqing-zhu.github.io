@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-### Aiqing Zhu
+## Aiqing Zhu
 
 PhD candidate at Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
 
@@ -47,7 +46,7 @@ Email: zaq@lsec.cc.ac.cn.
 
 - Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, On convergence of neural network methods for solving elliptic interface problems. arXiv 2203.03407, [PDF](https://arxiv.org/abs/2203.03407).
 
-### Teaching:
+### Teaching
 
 - Spring 2020, Fall 2020: TA, Mathmatical Analysis, University of Chinese Academy of Sciences.
 
