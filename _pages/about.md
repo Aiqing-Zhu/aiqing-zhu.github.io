@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Aiqing Zhu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Aiqing Zhu
 
 PhD candidate at Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
 
