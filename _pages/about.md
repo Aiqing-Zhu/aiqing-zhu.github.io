@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aiqing Zhu"
+title: "Aiqing Zhu (祝爱卿)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
