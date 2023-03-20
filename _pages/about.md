@@ -22,9 +22,14 @@ Email: zaq@lsec.cc.ac.cn.
 
 
 ### Publications
+[10] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Convergence of Physics-Informed Neural Networks Applied to Linear Second-Order Elliptic Interface Problems. Communications in Computational Physics, 33(2): 596-627 (2023). [PDF](http://www.global-sci.com/intro/article_detail/cicp/21501.html).
+
+
+[9] Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Explicit K-symplectic methods for nonseparable non-canonical Hamiltonian systems. Chinese Physics B, 32 (2): 20204-020204 (2023). [PDF](https://iopscience.iop.org/article/10.1088/1674-1056/aca9c8).
+
 [8] Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Poisson Integrators Based on Splitting Method for Poisson Systems. Communications in Computational Physics, 32(4):1129-1155 (2022). [PDF](https://doi.org/10.4208/cicp.OA-2022-0144).
 
-[7] Beibei Zhu, Jian Liu, Jiawei Zhang, Aiqing Zhu, Yifa Tang, Adaptive energy-preserving algorithms for guiding center system. Plasma Science and Technology, to appear. [PDF](https://doi.org/10.1088/2058-6272/ac9c4a).
+[7] Beibei Zhu, Jian Liu, Jiawei Zhang, Aiqing Zhu, Yifa Tang, Adaptive energy-preserving algorithms for guiding center system. Plasma Science and Technology, 25, 045102. [PDF](https://doi.org/10.1088/2058-6272/ac9c4a).http://pst.hfcas.ac.cn/EN/10.1088/2058-6272/ac9c4a
 
 [6] Aiqing Zhu, Pengzhan Jin, Beibei Zhu, Yifa Tang, On Numerical Integration in Neural Ordinary Differential Equations. Proceedings of the 39th International Conference on Machine Learning, PMLR 162, 27527-27547 (2022). [PDF](https://proceedings.mlr.press/v162/zhu22f.html), [CODE](https://github.com/Aiqing-Zhu/IMDE).
 
@@ -42,9 +47,7 @@ Email: zaq@lsec.cc.ac.cn.
 
 - Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
 
-- Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Explicit K-symplectic methods for nonseparable non-canonical Hamiltonian systems. arXiv 2208.03875, [PDF](https://arxiv.org/abs/2208.03875).
 
-- Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, On convergence of neural network methods for solving elliptic interface problems. arXiv 2203.03407, [PDF](https://arxiv.org/abs/2203.03407).
 
 ### Teaching
 
