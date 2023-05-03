@@ -20,6 +20,16 @@ Email: zaq@lsec.cc.ac.cn.
     - B.S. in Mathematics.
   
 
+### Preprints
+- Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. arXiv:2304.10882, [PDF](https://arxiv.org/abs/2304.10882).
+
+- Aiqing Zhu, Tom Bertalan, Beibei Zhu, Yifa Tang, Ioannis G. Kevrekidis, Implementation and (Inverse Modified) Error Analysis for implicitly-templated ODE-nets. 	arXiv:2303.17824, [PDF](https://arxiv.org/abs/2303.17824).
+
+- Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
+
+
+
+
 
 ### Publications
 [10] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Convergence of Physics-Informed Neural Networks Applied to Linear Second-Order Elliptic Interface Problems. Communications in Computational Physics, 33(2): 596-627 (2023). [PDF](http://www.global-sci.com/intro/article_detail/cicp/21501.html).
@@ -42,13 +52,7 @@ Email: zaq@lsec.cc.ac.cn.
 
 [1] Aiqing Zhu, Pengzhan Jin, Yifa Tang, Deep Hamiltonian networks based on symplectic integrators (in Chinese). Mathematica Numerica Sinica, 42(3), 370-384 (2020). [PDF](https://doi.org/10.12286/jssx.2020.3.370), [English version](https://arxiv.org/abs/2004.13830).
 
-### Preprints
 
-- Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
-
-- Aiqing Zhu, Tom Bertalan, Beibei Zhu, Yifa Tang, Ioannis G. Kevrekidis, Implementation and (Inverse Modified) Error Analysis for implicitly-templated ODE-nets. 	arXiv:2303.17824, [PDF](https://arxiv.org/abs/2303.17824).
-
-- Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. arXiv:2304.10882, [PDF](https://arxiv.org/abs/2304.10882).
 
 ### Teaching
 
