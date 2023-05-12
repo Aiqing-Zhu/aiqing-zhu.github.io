@@ -14,7 +14,7 @@ Email: zaq@lsec.cc.ac.cn.
 
 ### Experience
   - Aug. 2018 - present: [Institute of Computational Mathematics and Scientific/Engineering Computing](http://www.cc.ac.cn/), [Academy of Mathematics and Systems Science](http://www.amss.cas.cn/), [Chinese Academy of Sciences](http://www.cas.ac.cn/), Beijing, China.
-    - Ph.D. candidate in Computational Mathematics. Advised by [Yifa Tang](http://159.226.92.83/article/5/26.html?zy=26&language=cn).
+    - Ph.D. candidate in Computational Mathematics. Advised by [Yifa Tang](http://icmsec.cc.ac.cn/article/5/26.html?zc=36).
   
   - Aug. 2014 – July. 2018: [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
     - B.S. in Mathematics.
