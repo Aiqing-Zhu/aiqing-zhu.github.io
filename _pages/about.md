@@ -13,7 +13,12 @@ PhD candidate at Academy of Mathematics and Systems Science, Chinese Academy of 
 Email: zaq@lsec.cc.ac.cn.
 
 ### Experience
-  - Aug. 2018 - present: [Institute of Computational Mathematics and Scientific/Engineering Computing](http://www.cc.ac.cn/), [Academy of Mathematics and Systems Science](http://www.amss.cas.cn/), [Chinese Academy of Sciences](http://www.cas.ac.cn/), Beijing, China.
+  - July. 2023 - present: [Department of Mathematics](https://www.math.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), Singapore.
+    
+    - Research Fellow (postdoc), mentor: [Li Qianxiao](https://blog.nus.edu.sg/qianxiaoli/).
+
+### Education
+  - Aug. 2018 - July. 2023: [Institute of Computational Mathematics and Scientific/Engineering Computing](http://www.cc.ac.cn/), [Academy of Mathematics and Systems Science](http://www.amss.cas.cn/), [Chinese Academy of Sciences](http://www.cas.ac.cn/), Beijing, China.
     - Ph.D. candidate in Computational Mathematics. Advised by [Yifa Tang](http://icmsec.cc.ac.cn/article/5/26.html?zc=36).
   
   - Aug. 2014 – July. 2018: [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
