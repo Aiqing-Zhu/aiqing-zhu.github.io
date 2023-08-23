@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate at Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
+I am a postdoc in the Department of Mathematics at National University of Singapore.
 
-Email: zaq@lsec.cc.ac.cn.
+Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 
 ### Experience
   - July. 2023 - present: [Department of Mathematics](https://www.math.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), Singapore.
