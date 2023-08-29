@@ -25,7 +25,7 @@ Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
   
 
 ### Preprints
-- Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. arXiv: :2308.14537, [PDF](https://arxiv.org/abs/2308.14537).
+- Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. arXiv:2308.14537, [PDF](https://arxiv.org/abs/2308.14537).
   
 - Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. arXiv:2304.10882, [PDF](https://arxiv.org/abs/2304.10882).
 
