@@ -27,6 +27,8 @@ Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dynamical systems, Machine learning for science.
 
 ### Preprints
+- Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
+
 - Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. arXiv:2308.14537, [PDF](https://arxiv.org/abs/2308.14537).
   
 - Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. arXiv:2304.10882, [PDF](https://arxiv.org/abs/2304.10882).
