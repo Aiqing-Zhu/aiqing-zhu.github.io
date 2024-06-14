@@ -34,7 +34,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 
 ### Publications
-[13] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics, arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
+[13] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics (2024), arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
 
 [12] Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. To appear in: SIAM Journal on Numerical Analysis (2024), arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
 
@@ -46,7 +46,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 [8] Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Poisson Integrators Based on Splitting Method for Poisson Systems. Communications in Computational Physics, 32(4):1129-1155 (2022). [PDF](https://doi.org/10.4208/cicp.OA-2022-0144).
 
-[7] Beibei Zhu, Jian Liu, Jiawei Zhang, Aiqing Zhu, Yifa Tang, Adaptive energy-preserving algorithms for guiding center system. Plasma Science and Technology, 25, 045102. [PDF](https://doi.org/10.1088/2058-6272/ac9c4a).
+[7] Beibei Zhu, Jian Liu, Jiawei Zhang, Aiqing Zhu, Yifa Tang, Adaptive energy-preserving algorithms for guiding center system. Plasma Science and Technology, 25, 045102 (2022). [PDF](https://doi.org/10.1088/2058-6272/ac9c4a).
 
 [6] Aiqing Zhu, Pengzhan Jin, Beibei Zhu, Yifa Tang, On Numerical Integration in Neural Ordinary Differential Equations. Proceedings of the 39th International Conference on Machine Learning, PMLR 162, 27527-27547 (2022). [PDF](https://proceedings.mlr.press/v162/zhu22f.html), [CODE](https://github.com/Aiqing-Zhu/IMDE).
 
