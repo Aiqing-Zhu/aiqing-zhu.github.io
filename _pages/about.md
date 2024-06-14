@@ -27,21 +27,19 @@ Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dynamical systems, Machine learning for science.
 
 ### Preprints
-- Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
-
 - Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. arXiv:2308.14537, [PDF](https://arxiv.org/abs/2308.14537).
-  
-- Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. arXiv:2304.10882, [PDF](https://arxiv.org/abs/2304.10882).
 
 - Aiqing Zhu, Tom Bertalan, Beibei Zhu, Yifa Tang, Ioannis G. Kevrekidis, Implementation and (Inverse Modified) Error Analysis for implicitly-templated ODE-nets. 	arXiv:2303.17824, [PDF](https://arxiv.org/abs/2303.17824).
-
-- Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
-
-
 
 
 
 ### Publications
+[13] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics, arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
+
+[12] Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. To appear in: SIAM Journal on Numerical Analysis (2024), arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
+
+[11] Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. Simulation 100(6): 595-611 (2024). [PDF](https://journals.sagepub.com/doi/abs/10.1177/00375497241231986), [arXiv](https://arxiv.org/abs/2304.10882).
+
 [10] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Convergence of Physics-Informed Neural Networks Applied to Linear Second-Order Elliptic Interface Problems. Communications in Computational Physics, 33(2): 596-627 (2023). [PDF](http://www.global-sci.com/intro/article_detail/cicp/21501.html).
 
 [9] Beibei Zhu, Lun Ji, Aiqing Zhu, Yifa Tang, Explicit K-symplectic methods for nonseparable non-canonical Hamiltonian systems. Chinese Physics B, 32 (2): 20204-020204 (2023). [PDF](https://iopscience.iop.org/article/10.1088/1674-1056/aca9c8).
