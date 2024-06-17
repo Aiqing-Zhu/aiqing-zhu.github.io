@@ -29,14 +29,13 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 ### Preprints
 - Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. arXiv:2308.14537, [PDF](https://arxiv.org/abs/2308.14537).
 
-- Aiqing Zhu, Tom Bertalan, Beibei Zhu, Yifa Tang, Ioannis G. Kevrekidis, Implementation and (Inverse Modified) Error Analysis for implicitly-templated ODE-nets. 	arXiv:2303.17824, [PDF](https://arxiv.org/abs/2303.17824).
-
-
 
 ### Publications
-[13] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics (2024), arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
+[14] Aiqing Zhu, Tom Bertalan, Beibei Zhu, Yifa Tang, Ioannis G. Kevrekidis, Implementation and (Inverse Modified) Error Analysis for implicitly-templated ODE-nets. To appear in: SIAM Journal on Applied Dynamical Systems (2024),	arXiv:2303.17824, [PDF](https://arxiv.org/abs/2303.17824).
 
-[12] Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. To appear in: SIAM Journal on Numerical Analysis (2024), arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
+[13] Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. To appear in: SIAM Journal on Numerical Analysis (2024), arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
+
+[12] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics (2024), arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
 
 [11] Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. Simulation 100(6): 595-611 (2024). [PDF](https://journals.sagepub.com/doi/abs/10.1177/00375497241231986), [arXiv](https://arxiv.org/abs/2304.10882).
 
