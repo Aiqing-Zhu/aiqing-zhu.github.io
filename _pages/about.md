@@ -57,7 +57,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 [2] Pengzhan Jin, Zhen Zhang, Aiqing Zhu, Yifa Tang, George Em Karniadakis, SympNets: Intrinsic structure-preserving symplectic networks for identifying Hamiltonian systems. Neural Networks, 132, 166-179 (2020). [PDF](https://doi.org/10.1016/j.neunet.2020.08.017), [arXiv](https://arxiv.org/abs/2001.03750), [CODE](https://github.com/jpzxshi/sympnets).
 
-[1] Aiqing Zhu, Pengzhan Jin, Yifa Tang, Deep Hamiltonian networks based on symplectic integrators (in Chinese). Mathematica Numerica Sinica, 42(3), 370-384 (2020), special issue in memery of Kang Feng on his centennial birthday. [PDF](https://doi.org/10.12286/jssx.2020.3.370), [English version](https://arxiv.org/abs/2004.13830).
+[1] Aiqing Zhu, Pengzhan Jin, Yifa Tang, Deep Hamiltonian networks based on symplectic integrators (in Chinese). Mathematica Numerica Sinica, 42(3), 370-384 (2020), special issue in memery of Prof. Kang Feng on his centennial birthday. [PDF](https://doi.org/10.12286/jssx.2020.3.370), [English version](https://arxiv.org/abs/2004.13830).
 
 
 
