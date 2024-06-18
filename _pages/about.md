@@ -37,7 +37,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 [12] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics (2024), arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
 
-[11] Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. Simulation 100(6): 595-611 (2024). [PDF](https://journals.sagepub.com/doi/abs/10.1177/00375497241231986), [arXiv](https://arxiv.org/abs/2304.10882).
+[11] Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. Simulation, 100(6): 595-611 (2024). [PDF](https://journals.sagepub.com/doi/abs/10.1177/00375497241231986), [arXiv](https://arxiv.org/abs/2304.10882).
 
 [10] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Convergence of Physics-Informed Neural Networks Applied to Linear Second-Order Elliptic Interface Problems. Communications in Computational Physics, 33(2): 596-627 (2023). [PDF](http://www.global-sci.com/intro/article_detail/cicp/21501.html).
 
