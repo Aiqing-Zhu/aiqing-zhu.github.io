@@ -18,7 +18,7 @@ Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 
 ### Education
   - Aug. 2018 - July. 2023: [Institute of Computational Mathematics and Scientific/Engineering Computing](http://www.cc.ac.cn/), [Academy of Mathematics and Systems Science](http://www.amss.cas.cn/), [Chinese Academy of Sciences](http://www.cas.ac.cn/), Beijing, China.
-    - Ph.D. in Computational Mathematics, advised by Prof. [Yifa Tang](http://icmsec.cc.ac.cn/article/5/26.html?zc=36).
+    - Ph.D. in Computational Mathematics, advised by Prof. [Yifa Tang](https://icmsec.cc.ac.cn/article/5/26.html?zy=26&language=cn).
   
   - Aug. 2014 – July. 2018: [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
     - B.S. in Mathematics.
