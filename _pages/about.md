@@ -35,7 +35,8 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 [13] Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. To appear in: SIAM Journal on Numerical Analysis (2024), arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
 
-[12] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. To appear in: Journal of Computational Physics (2024), arXiv:2402.14475, [PDF](https://arxiv.org/abs/2402.14475).
+[12] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. Journal of Computational Physics, 513 (2024) 11320, [PDF](https://doi.org/10.1016/j.jcp.2024.113200), [arXiv](https://arxiv.org/abs/2402.14475), [CODE](https://github.com/Aiqing-Zhu/DynGMA).
+
 
 [11] Jiawei Zhang, Aiqing Zhu, Feng Ji, Chang Lin, Yifa Tang, Effective Numerical Simulations of Synchronous Generator System. Simulation, 100(6): 595-611 (2024). [PDF](https://journals.sagepub.com/doi/abs/10.1177/00375497241231986), [arXiv](https://arxiv.org/abs/2304.10882).
 
