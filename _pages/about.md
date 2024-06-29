@@ -28,11 +28,11 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 
 ### Publications
-[15] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. To appear in: Journal of Computational Physics (2024), arXiv:2308.14537, [PDF](https://arxiv.org/abs/2308.14537).
+[15] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. Journal of Computational Physics, 514 (2024) 113217, [PDF](https://doi.org/10.1016/j.jcp.2024.113217), [arXiv](https://arxiv.org/abs/2308.14537), [CODE]( https://github.com/bzlu-Group/IONet).
 
 [14] Aiqing Zhu, Tom Bertalan, Beibei Zhu, Yifa Tang, Ioannis G. Kevrekidis, Implementation and (Inverse Modified) Error Analysis for implicitly-templated ODE-nets. To appear in: SIAM Journal on Applied Dynamical Systems (2024),	arXiv:2303.17824, [PDF](https://arxiv.org/abs/2303.17824).
 
-[13] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. Journal of Computational Physics, 513 (2024) 11320, [PDF](https://doi.org/10.1016/j.jcp.2024.113200), [arXiv](https://arxiv.org/abs/2402.14475), [CODE](https://github.com/Aiqing-Zhu/DynGMA).
+[13] Aiqing Zhu, Qianxiao Li, DynGMA: a robust approach for learning stochastic differential equations from data. Journal of Computational Physics, 513 (2024) 113200, [PDF](https://doi.org/10.1016/j.jcp.2024.113200), [arXiv](https://arxiv.org/abs/2402.14475), [CODE](https://github.com/Aiqing-Zhu/DynGMA).
 
 [12] Aiqing Zhu, Sidi Wu, and Yifa Tang, Error analysis based on inverse modified differential equations for discovery of dynamics using linear multistep methods and deep learning. To appear in: SIAM Journal on Numerical Analysis (2024), arXiv 2209.12123, [PDF](https://arxiv.org/abs/2209.12123).
 
