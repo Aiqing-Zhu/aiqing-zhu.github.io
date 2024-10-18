@@ -28,7 +28,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 
 ### Publications
-[16] Jianfei Huang, Na Liu, Yifa Tang, Ruili Zhang, Aiqing Zhu, Beibei Zhu, Forty years: Geometric numerical integration of dynamical systems in China. International Journal of Modeling, Simulation, and Scientific Computing, 2550009 (2025), [PDF](https://doi.org/10.1142/S1793962325500096).
+[16] Jianfei Huang, Na Liu, Yifa Tang, Ruili Zhang, Aiqing Zhu, Beibei Zhu, Forty years: Geometric numerical integration of dynamical systems in China. International Journal of Modeling, Simulation, and Scientific Computing, 2550009 (2024), [PDF](https://doi.org/10.1142/S1793962325500096).
 
 [15] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. Journal of Computational Physics, 514 (2024) 113217, [PDF](https://doi.org/10.1016/j.jcp.2024.113217), [arXiv](https://arxiv.org/abs/2308.14537), [CODE]( https://github.com/bzlu-Group/IONet).
 
