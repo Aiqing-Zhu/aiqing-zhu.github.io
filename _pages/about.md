@@ -28,6 +28,8 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 
 ### Publications
+[17] Aiqing Zhu, Yuting Pan, Qianxiao Li, Continuity-Preserving Autoencoders for Learning Continuous Latent Dynamical Models from Images. The Thirteenth International Conference on Learning Representations (ICLR2025).
+
 [16] Jianfei Huang, Na Liu, Yifa Tang, Ruili Zhang, Aiqing Zhu, Beibei Zhu, Forty years: Geometric numerical integration of dynamical systems in China. International Journal of Modeling, Simulation, and Scientific Computing, 2550009 (2024), [PDF](https://doi.org/10.1142/S1793962325500096).
 
 [15] Sidi Wu, Aiqing Zhu, Yifa Tang, Benzhuo Lu, Solving parametric elliptic interface problems via interfaced operator network. Journal of Computational Physics, 514 (2024) 113217, [PDF](https://doi.org/10.1016/j.jcp.2024.113217), [arXiv](https://arxiv.org/abs/2308.14537), [CODE]( https://github.com/bzlu-Group/IONet).
@@ -48,7 +50,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 [7] Beibei Zhu, Jian Liu, Jiawei Zhang, Aiqing Zhu, Yifa Tang, Adaptive energy-preserving algorithms for guiding center system. Plasma Science and Technology, 25, 045102 (2022). [PDF](https://doi.org/10.1088/2058-6272/ac9c4a).
 
-[6] Aiqing Zhu, Pengzhan Jin, Beibei Zhu, Yifa Tang, On Numerical Integration in Neural Ordinary Differential Equations. Proceedings of the 39th International Conference on Machine Learning, PMLR 162, 27527-27547 (2022). [PDF](https://proceedings.mlr.press/v162/zhu22f.html), [CODE](https://github.com/Aiqing-Zhu/IMDE).
+[6] Aiqing Zhu, Pengzhan Jin, Beibei Zhu, Yifa Tang, On Numerical Integration in Neural Ordinary Differential Equations. Proceedings of the 39th International Conference on Machine Learning (ICML2022), PMLR 162, 27527-27547 (2022). [PDF](https://proceedings.mlr.press/v162/zhu22f.html), [CODE](https://github.com/Aiqing-Zhu/IMDE).
 
 [5] Aiqing Zhu, Beibei Zhu, Jiawei Zhang, Yifa Tang, Jian Liu, VPNets: Volume-preserving neural networks for learning source-free dynamics. Journal of Computational and Applied Mathematics, 416, 114523 (2022). [PDF](https://doi.org/10.1016/j.cam.2022.114523), [arXiv](https://arxiv.org/abs/2204.13843), [CODE](https://github.com/Aiqing-Zhu/VPNets).
 
