@@ -12,6 +12,11 @@ I am a postdoc in the Department of Mathematics at National University of Singap
 
 Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 
+### Research interest: 
+- AI for sciences
+- Machine learning and dynamical systems
+- Symplectic geometric algorithms for Hamiltonian systems
+
 ### Experience
   - July. 2023 - present: [Department of Mathematics](https://www.math.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), Singapore.
     - Research Fellow (postdoc), mentored by Prof. [Qianxiao Li](https://blog.nus.edu.sg/qianxiaoli/).
@@ -23,12 +28,6 @@ Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
   - Aug. 2014 – July. 2018: [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
     - B.S. in Mathematics.
   
-### Research interest: 
-- AI for sciences
-- Machine learning and dynamical systems
-- Symplectic geometric algorithms for Hamiltonian systems
-
-
 
 ### Professional Service
 Conference reviewer: NeurIPS, ICLR, ICML, etc.
