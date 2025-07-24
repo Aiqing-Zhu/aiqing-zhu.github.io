@@ -24,14 +24,11 @@ Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
     - B.S. in Mathematics.
   
 ### Research interest: 
-Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dynamical systems, Machine learning for science.
-
-
-
-
-
+- AI for sciences
+- Machine learning and dynamical systems
+- Symplectic geometric algorithms for Hamiltonian systems
 
 
 
 ### Professional Service
-Conference reviewer: NeurIPS, ICML.
+Conference reviewer: NeurIPS, ICLR, ICML, etc.
