@@ -31,11 +31,7 @@ Symplectic geometric algorithms for Hamiltonian systems, Machine learning and dy
 
 
 
-### Teaching
 
-- Spring 2020, Fall 2020: TA, Mathmatical Analysis, University of Chinese Academy of Sciences.
-
-- Spring 2017, Fall 2017: TA, Mathmatical Analysis, University of Science and Technology of China.
 
 ### Professional Service
 Conference reviewer: NeurIPS, ICML.
