@@ -13,7 +13,7 @@ I am a postdoc in the Department of Mathematics at National University of Singap
 Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 
 ### Research interest: 
-- AI for sciences
+- AI for science
 - Machine learning and dynamical systems
 - Symplectic geometric algorithms for Hamiltonian systems
 
