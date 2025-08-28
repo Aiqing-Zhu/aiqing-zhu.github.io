@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Mathematics at National University of Singapore. My research mainly focus on algorithms for learning dynamical systems, their mathematical theory and their applications in the sciences, with an emphasis on integrating physics and structures while maintaining desirable theoretical properties and guarantees. In addition, I am interested in deep learning methods for solving PDEs, especially those that exploit their inherent mesh-free capabilities. Furthermore, my work encompasses symplectic geometry algorithms as well as more general structure-preserving methods, which also serve as the foundation for many of my AI-related works.
+I am a postdoctoral researcher in the Department of Mathematics at the National University of Singapore. My research focuses primarily on learning dynamical systems, including their learning algorithms, mathematical foundations and scientific applications. A key emphasis is placed on integrating physical principles and structures while maintaining desirable theoretical properties and guarantees—which can be viewed as structure-preserving methods in the age of AI. I am also interested in deep learning techniques for solving PDEs, particularly those that  exploit their inherent mesh-free capabilities. Additionally, my work spans symplectic geometry algorithms and broader structure-preserving numerical methods, which form the foundation for much of my research at the intersection of AI and mathematical modeling.
 
 Email:  zaq@nus.edu.sg, zaq@lsec.cc.ac.cn.
 
