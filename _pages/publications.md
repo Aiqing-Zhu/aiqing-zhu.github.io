@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+- Aiqing Zhu, Beatrice W. Soh, Grigorios A. Pavliotis, Qianxiao Li, Identifiable learning of dissipative dynamics, arXiv:2510.24160, [PDF](https://arxiv.org/pdf/2510.24160).
+
 - Aiqing Zhu, Yuting Pan, Qianxiao Li, Continuity-Preserving Autoencoders for Learning Continuous Latent Dynamical Models from Images. The Thirteenth International Conference on Learning Representations (ICLR2025), [PDF](https://openreview.net/forum?id=MxALfOAnXv&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), [CODE](https://github.com/Aiqing-Zhu/CpAE).
 
 - Jianfei Huang, Na Liu, Yifa Tang, Ruili Zhang, Aiqing Zhu, Beibei Zhu, Forty years: Geometric numerical integration of dynamical systems in China. International Journal of Modeling, Simulation, and Scientific Computing, 2550009 (2024), [PDF](https://doi.org/10.1142/S1793962325500096).
